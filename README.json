@@ -30,7 +30,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-14T16:48:07Z",
+            "last_commit": "2026-08-17T08:25:54Z",
             "owner": "besu-eth",
             "repo": "besu",
             "stars": 1828
@@ -478,7 +478,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-14T16:48:07Z",
+            "last_commit": "2026-08-17T08:25:54Z",
             "owner": "besu-eth",
             "repo": "besu",
             "stars": 1828
@@ -598,7 +598,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T11:30:04.231Z",
+    "last_updated": "2026-08-17T11:34:57.847Z",
     "original_repository": "Consensys/awesome-quorum",
     "original_repository_sha": "ed083f654b2c8b9a515143f9d764518cd7c7f46f",
     "enhanced_repository": "enhansome/enhansome-quorum",
