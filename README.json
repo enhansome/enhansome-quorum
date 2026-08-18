@@ -19,7 +19,7 @@
             "last_commit": "2026-06-05T02:27:13Z",
             "owner": "Consensys",
             "repo": "quorum",
-            "stars": 4765
+            "stars": 4764
           }
         },
         {
@@ -30,10 +30,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-17T08:25:54Z",
+            "last_commit": "2026-08-18T10:58:32Z",
             "owner": "besu-eth",
             "repo": "besu",
-            "stars": 1828
+            "stars": 1827
           }
         }
       ],
@@ -259,7 +259,7 @@
             "last_commit": "2022-05-26T23:22:43Z",
             "owner": "Consensys",
             "repo": "cakeshop",
-            "stars": 501
+            "stars": 500
           }
         },
         {
@@ -433,7 +433,7 @@
             "last_commit": "2026-06-05T02:27:13Z",
             "owner": "Consensys",
             "repo": "quorum",
-            "stars": 4765
+            "stars": 4764
           }
         },
         {
@@ -467,7 +467,7 @@
             "last_commit": "2026-06-05T02:27:13Z",
             "owner": "Consensys",
             "repo": "quorum",
-            "stars": 4765
+            "stars": 4764
           }
         },
         {
@@ -478,10 +478,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-17T08:25:54Z",
+            "last_commit": "2026-08-18T10:58:32Z",
             "owner": "besu-eth",
             "repo": "besu",
-            "stars": 1828
+            "stars": 1827
           }
         }
       ],
@@ -506,7 +506,7 @@
             "last_commit": "2026-06-05T02:27:13Z",
             "owner": "Consensys",
             "repo": "quorum",
-            "stars": 4765
+            "stars": 4764
           }
         },
         {
@@ -598,7 +598,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T11:34:57.847Z",
+    "last_updated": "2026-08-18T11:35:03.110Z",
     "original_repository": "Consensys/awesome-quorum",
     "original_repository_sha": "ed083f654b2c8b9a515143f9d764518cd7c7f46f",
     "enhanced_repository": "enhansome/enhansome-quorum",
