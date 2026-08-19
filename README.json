@@ -1,460 +1,493 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GoQuorum",
+              "description": "Enterprise Ethereum client, fork of Go-Ethereum (aka Geth), compatible with permissioned networks and widely used in production",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 73670742,
+                "language": "Go",
+                "last_commit": "2026-06-05T02:27:13Z",
+                "owner": "Consensys",
+                "repo": "quorum",
+                "stars": 4764
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hyperledger Besu",
+              "description": "Enterprise Ethereum client written in Java under Apache 2.0 license, compatible with both public and permissioned networks",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 206414745,
+                "language": "Java",
+                "last_commit": "2026-08-19T11:11:20Z",
+                "owner": "besu-eth",
+                "repo": "besu",
+                "stars": 1827
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Enterprise Ethereum Client"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "EthSigner",
+              "description": "Transaction signing application to be used with a web3 provider",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 173230987,
+                "language": "Java",
+                "last_commit": "2024-04-04T04:00:30Z",
+                "owner": "Consensys",
+                "repo": "ethsigner",
+                "stars": 112
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Quorum Signer Hashicorp",
+              "description": "Custom plugin backend for Hashicorp Vault adding a new secret-engine to Hashicorp Vault",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 287908330,
+                "language": "Go",
+                "last_commit": "2024-06-05T02:17:01Z",
+                "owner": "Consensys",
+                "repo": "quorum-signer-plugin-for-hashicorp-vault",
+                "stars": 6
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Private Key Manager"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Besu Plugins",
+              "description": "Extends Hyperledger Besu functionality using Java based plugin API to retrieve data from any Besu network, public or permissioned and feed it into an application or system",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 282825509,
+                "language": "Java",
+                "last_commit": "2026-05-13T14:50:30Z",
+                "owner": "Consensys",
+                "repo": "besu-plugins",
+                "stars": 20
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Besu Event Stream",
+              "description": "Besu plugin listening to events occurring on Ethereum network and broadcasting them to Kafka",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 282825509,
+                "language": "Java",
+                "last_commit": "2026-05-13T14:50:30Z",
+                "owner": "Consensys",
+                "repo": "besu-plugins",
+                "stars": 20
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Quorum Remix IDE Plugin",
+              "description": "The Quorum plugin for Ethereum's Remix IDE adds support for creating and interacting with private contracts on a Quorum network.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 215861816,
+                "language": "JavaScript",
+                "last_commit": "2024-06-24T13:23:42Z",
+                "owner": "Consensys",
+                "repo": "quorum-remix",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Quorum Hashicorp Account Plugin",
+              "description": "Plugin enabling storage of Quorum account private keys in a Hashicorp Vault KV v2 secret engine.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 218277652,
+                "language": "Go",
+                "last_commit": "2026-05-12T13:52:23Z",
+                "owner": "Consensys",
+                "repo": "quorum-account-plugin-hashicorp-vault",
+                "stars": 7
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Quorum Plugin Definitions",
+              "description": "Extends Quorum functionality with gRPC based plugin API. Contains protobuf files defining plugin interfaces (e.g. Account plugin, Security plugin...)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 238762844,
+                "language": "Go",
+                "last_commit": "2024-06-24T13:23:40Z",
+                "owner": "Consensys",
+                "repo": "quorum-plugin-definitions",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Quorum Security Plugin",
+              "description": "Plugin enabling securing JSON-RPC server endpoints by adding TLS and support for OAuth2 based authentication",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 198226872,
+                "language": "Go",
+                "last_commit": "2024-06-24T13:23:03Z",
+                "owner": "Consensys",
+                "repo": "quorum-security-plugin-enterprise",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Plugins"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "web3j-quorum",
+              "description": "An extension to web3j providing support for Quorum APIs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 78003032,
+                "language": "Java",
+                "last_commit": "2023-05-16T12:49:38Z",
+                "owner": "web3j",
+                "repo": "web3j-quorum",
+                "stars": 120
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Web3Quorum",
+              "description": "A web3py extension that supports Quorum APIs: Raft and Istanbul.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 222458898,
+                "language": "Python",
+                "last_commit": "2026-06-30T02:34:40Z",
+                "owner": "chainstack",
+                "repo": "web3quorum",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Quorum-toolbox",
+              "description": "Tools and scripts for Quorum configuration.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 157188860,
+                "language": "Python",
+                "last_commit": "2020-05-28T16:00:38Z",
+                "owner": "chainstack",
+                "repo": "quorum-toolbox",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Libraries"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Cordage",
+              "description": "Cordage makes the interoperability possible from Corda to Quorum and Hyperledger Besu by providing several modules that propagate, pull and verify information between Blockchains without further trusted third party.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 241547980,
+                "language": "Kotlin",
+                "last_commit": "2023-09-27T21:03:23Z",
+                "owner": "LayerXcom",
+                "repo": "cordage",
+                "stars": 54
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Wanchain",
+              "description": "Wanchain Trust Bridge currently provides a reference implementation to connect Wanchain to a private blockchain built with Hyperledger Besu originally from Consensys.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 233992080,
+                "language": null,
+                "last_commit": "2020-01-16T10:27:47Z",
+                "owner": "wanchain",
+                "repo": "T-Bridge-Contracts",
+                "stars": 1
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Interoperability"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Cakeshop",
+              "description": "Set of tools and APIs for working with Ethereum-like ledgers, packaged as a Java web application archive",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 76374271,
+                "language": "JavaScript",
+                "last_commit": "2022-05-26T23:22:43Z",
+                "owner": "Consensys",
+                "repo": "cakeshop",
+                "stars": 500
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Besu permissioning dApp",
+              "description": "Facilitate managing permissioning rules and maintaining the list of admin accounts that can edit rules",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 179194239,
+                "language": "TypeScript",
+                "last_commit": "2023-01-16T23:55:49Z",
+                "owner": "Consensys",
+                "repo": "permissioning-smart-contracts",
+                "stars": 49
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Istanbul Tools",
+              "description": "Tools for configuring Istanbul BFT (IBFT) network",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 137351451,
+                "language": "Go",
+                "last_commit": "2023-04-10T13:50:21Z",
+                "owner": "Consensys",
+                "repo": "istanbul-tools",
+                "stars": 20
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Quorum Remix",
+              "description": "Quorum plugin for Ethereum's Remix IDE adds support for creating and interacting with private contracts on a Quorum network",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 215861816,
+                "language": "JavaScript",
+                "last_commit": "2024-06-24T13:23:42Z",
+                "owner": "Consensys",
+                "repo": "quorum-remix",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Quorum reporting",
+              "description": "Tool that indexes blocks and transactions in a Quorum network and generates reports to give users insights into what is happening with their contracts",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 244806207,
+                "language": "Go",
+                "last_commit": "2024-06-24T13:24:50Z",
+                "owner": "Consensys",
+                "repo": "quorum-reporting",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "gohammer",
+              "description": "Quorum and Besu TPS performance tool written in golang. Based on scenario configuration to load transactions to your network.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 325018088,
+                "language": "Go",
+                "last_commit": "2021-11-12T09:36:56Z",
+                "owner": "tubuarge",
+                "repo": "gohammer",
+                "stars": 17
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Quorum Profiling",
+              "description": "Toolset built for the purpose of running stress tests on networks running on Quorum and measure/monitor the TPS and other benchmarking parameters at network level",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 247661029,
+                "language": "HCL",
+                "last_commit": "2024-06-24T13:23:54Z",
+                "owner": "Consensys",
+                "repo": "quorum-profiling",
+                "stars": 10
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Performances"
+        }
+      ],
       "title": "Software components"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "GoQuorum",
-          "description": "Enterprise Ethereum client, fork of Go-Ethereum (aka Geth), compatible with permissioned networks and widely used in production",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2026-06-05T02:27:13Z",
-            "owner": "Consensys",
-            "repo": "quorum",
-            "stars": 4764
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Hyperledger Besu",
-          "description": "Enterprise Ethereum client written in Java under Apache 2.0 license, compatible with both public and permissioned networks",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-18T10:58:32Z",
-            "owner": "besu-eth",
-            "repo": "besu",
-            "stars": 1827
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Epirus Free - Blockchain Explorer",
+              "description": "This dockerized environment is designed for viewing private Quorum, Pantheon and Ethereum networks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 189044286,
+                "language": "HTML",
+                "last_commit": "2024-04-23T10:06:02Z",
+                "owner": "web3labs",
+                "repo": "chainlens-free",
+                "stars": 263
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Quorum Maker",
+              "description": "Synechron's Quorum Maker is a tool that allows users to create and manage Quorum network",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 98545964,
+                "language": "Shell",
+                "last_commit": "2022-07-05T06:12:30Z",
+                "owner": "synechron-finlabs",
+                "repo": "quorum-maker",
+                "stars": 192
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Quorum-Dev-Quickstart",
+              "description": "Deploy up a ConsenSys Quorum network on your local machine from the command line in only a few minutes",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 281021656,
+                "language": "Solidity",
+                "last_commit": "2026-03-19T02:58:07Z",
+                "owner": "Consensys",
+                "repo": "quorum-dev-quickstart",
+                "stars": 146
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Sandbox"
         }
       ],
-      "title": "Enterprise Ethereum Client"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "EthSigner",
-          "description": "Transaction signing application to be used with a web3 provider",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Java",
-            "last_commit": "2024-04-04T04:00:30Z",
-            "owner": "Consensys",
-            "repo": "ethsigner",
-            "stars": 112
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Quorum Signer Hashicorp",
-          "description": "Custom plugin backend for Hashicorp Vault adding a new secret-engine to Hashicorp Vault",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2024-06-05T02:17:01Z",
-            "owner": "Consensys",
-            "repo": "quorum-signer-plugin-for-hashicorp-vault",
-            "stars": 6
-          }
-        }
-      ],
-      "title": "Private Key Manager"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Besu Plugins",
-          "description": "Extends Hyperledger Besu functionality using Java based plugin API to retrieve data from any Besu network, public or permissioned and feed it into an application or system",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-05-13T14:50:30Z",
-            "owner": "Consensys",
-            "repo": "besu-plugins",
-            "stars": 20
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Besu Event Stream",
-          "description": "Besu plugin listening to events occurring on Ethereum network and broadcasting them to Kafka",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-05-13T14:50:30Z",
-            "owner": "Consensys",
-            "repo": "besu-plugins",
-            "stars": 20
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Quorum Remix IDE Plugin",
-          "description": "The Quorum plugin for Ethereum's Remix IDE adds support for creating and interacting with private contracts on a Quorum network.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2024-06-24T13:23:42Z",
-            "owner": "Consensys",
-            "repo": "quorum-remix",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Quorum Hashicorp Account Plugin",
-          "description": "Plugin enabling storage of Quorum account private keys in a Hashicorp Vault KV v2 secret engine.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-05-12T13:52:23Z",
-            "owner": "Consensys",
-            "repo": "quorum-account-plugin-hashicorp-vault",
-            "stars": 7
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Quorum Plugin Definitions",
-          "description": "Extends Quorum functionality with gRPC based plugin API. Contains protobuf files defining plugin interfaces (e.g. Account plugin, Security plugin...)",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2024-06-24T13:23:40Z",
-            "owner": "Consensys",
-            "repo": "quorum-plugin-definitions",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Quorum Security Plugin",
-          "description": "Plugin enabling securing JSON-RPC server endpoints by adding TLS and support for OAuth2 based authentication",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2024-06-24T13:23:03Z",
-            "owner": "Consensys",
-            "repo": "quorum-security-plugin-enterprise",
-            "stars": 5
-          }
-        }
-      ],
-      "title": "Plugins"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "web3j-quorum",
-          "description": "An extension to web3j providing support for Quorum APIs",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2023-05-16T12:49:38Z",
-            "owner": "web3j",
-            "repo": "web3j-quorum",
-            "stars": 120
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Web3Quorum",
-          "description": "A web3py extension that supports Quorum APIs: Raft and Istanbul.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2026-06-30T02:34:40Z",
-            "owner": "chainstack",
-            "repo": "web3quorum",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Quorum-toolbox",
-          "description": "Tools and scripts for Quorum configuration.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2020-05-28T16:00:38Z",
-            "owner": "chainstack",
-            "repo": "quorum-toolbox",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Libraries"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Cordage",
-          "description": "Cordage makes the interoperability possible from Corda to Quorum and Hyperledger Besu by providing several modules that propagate, pull and verify information between Blockchains without further trusted third party.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Kotlin",
-            "last_commit": "2023-09-27T21:03:23Z",
-            "owner": "LayerXcom",
-            "repo": "cordage",
-            "stars": 54
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Wanchain",
-          "description": "Wanchain Trust Bridge currently provides a reference implementation to connect Wanchain to a private blockchain built with Hyperledger Besu originally from Consensys.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2020-01-16T10:27:47Z",
-            "owner": "wanchain",
-            "repo": "T-Bridge-Contracts",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Interoperability"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Cakeshop",
-          "description": "Set of tools and APIs for working with Ethereum-like ledgers, packaged as a Java web application archive",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2022-05-26T23:22:43Z",
-            "owner": "Consensys",
-            "repo": "cakeshop",
-            "stars": 500
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Besu permissioning dApp",
-          "description": "Facilitate managing permissioning rules and maintaining the list of admin accounts that can edit rules",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2023-01-16T23:55:49Z",
-            "owner": "Consensys",
-            "repo": "permissioning-smart-contracts",
-            "stars": 49
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Istanbul Tools",
-          "description": "Tools for configuring Istanbul BFT (IBFT) network",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2023-04-10T13:50:21Z",
-            "owner": "Consensys",
-            "repo": "istanbul-tools",
-            "stars": 20
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Quorum Remix",
-          "description": "Quorum plugin for Ethereum's Remix IDE adds support for creating and interacting with private contracts on a Quorum network",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2024-06-24T13:23:42Z",
-            "owner": "Consensys",
-            "repo": "quorum-remix",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Quorum reporting",
-          "description": "Tool that indexes blocks and transactions in a Quorum network and generates reports to give users insights into what is happening with their contracts",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2024-06-24T13:24:50Z",
-            "owner": "Consensys",
-            "repo": "quorum-reporting",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Splunk Connect for Ethereum",
-          "description": "a connector to ingest blockchain data to Splunk.",
-          "children": []
-        }
-      ],
-      "title": "Tools"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "gohammer",
-          "description": "Quorum and Besu TPS performance tool written in golang. Based on scenario configuration to load transactions to your network.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2021-11-12T09:36:56Z",
-            "owner": "tubuarge",
-            "repo": "gohammer",
-            "stars": 17
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Quorum Profiling",
-          "description": "Toolset built for the purpose of running stress tests on networks running on Quorum and measure/monitor the TPS and other benchmarking parameters at network level",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "HCL",
-            "last_commit": "2024-06-24T13:23:54Z",
-            "owner": "Consensys",
-            "repo": "quorum-profiling",
-            "stars": 10
-          }
-        }
-      ],
-      "title": "Performances"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Deployment"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Epirus Free - Blockchain Explorer",
-          "description": "This dockerized environment is designed for viewing private Quorum, Pantheon and Ethereum networks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2024-04-23T10:06:02Z",
-            "owner": "web3labs",
-            "repo": "chainlens-free",
-            "stars": 263
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Quorum Maker",
-          "description": "Synechron's Quorum Maker is a tool that allows users to create and manage Quorum network",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2022-07-05T06:12:30Z",
-            "owner": "synechron-finlabs",
-            "repo": "quorum-maker",
-            "stars": 192
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Quorum-Dev-Quickstart",
-          "description": "Deploy up a ConsenSys Quorum network on your local machine from the command line in only a few minutes",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Solidity",
-            "last_commit": "2026-03-19T02:58:07Z",
-            "owner": "Consensys",
-            "repo": "quorum-dev-quickstart",
-            "stars": 146
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GoQuorum whitepaper",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 73670742,
+                "language": "Go",
+                "last_commit": "2026-06-05T02:27:13Z",
+                "owner": "Consensys",
+                "repo": "quorum",
+                "stars": 4764
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BFT specifications",
+              "description": "Paper describing the BFT Consensus Algorithm, a simple and elegant algorithm for Byzantine fault-tolerant consensus and is used to implement state machine replication in the Quorum blockchain",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 271373815,
+                "language": null,
+                "last_commit": "2020-08-27T13:31:22Z",
+                "owner": "Consensys",
+                "repo": "quorum-ibft",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Specifications"
         }
       ],
-      "title": "Sandbox"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Documentation"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "GoQuorum whitepaper",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2026-06-05T02:27:13Z",
-            "owner": "Consensys",
-            "repo": "quorum",
-            "stars": 4764
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BFT specifications",
-          "description": "Paper describing the BFT Consensus Algorithm, a simple and elegant algorithm for Byzantine fault-tolerant consensus and is used to implement state machine replication in the Quorum blockchain",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": null,
-            "last_commit": "2020-08-27T13:31:22Z",
-            "owner": "Consensys",
-            "repo": "quorum-ibft",
-            "stars": 4
-          }
-        }
-      ],
-      "title": "Specifications"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -463,6 +496,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 73670742,
             "language": "Go",
             "last_commit": "2026-06-05T02:27:13Z",
             "owner": "Consensys",
@@ -477,8 +511,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 206414745,
             "language": "Java",
-            "last_commit": "2026-08-18T10:58:32Z",
+            "last_commit": "2026-08-19T11:11:20Z",
             "owner": "besu-eth",
             "repo": "besu",
             "stars": 1827
@@ -488,117 +523,126 @@
       "title": "Contribute"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Community"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "ZSL proof of concept",
-          "description": "ZSL for GoQuorum enables the issuance of digital assets using ZSL-enabled public smart contracts (z-contracts). A combination of Tessera private contracts with z-contracts allows obligations that arise from a private contract to be settled using shielded transfers of z-tokens, while maintaining full privacy and confidentiality.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Go",
-            "last_commit": "2026-06-05T02:27:13Z",
-            "owner": "Consensys",
-            "repo": "quorum",
-            "stars": 4764
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "7nodes",
-          "description": "Starts up a fully-functioning GoQuorum environment consisting of 7 independent nodes. Demonstrates consensus, privacy, and all the expected functionality of an Ethereum platform.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2024-06-24T13:22:39Z",
-            "owner": "Consensys",
-            "repo": "quorum-examples",
-            "stars": 315
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Anonymous Zether",
-          "description": "A private payment system; an anonymous extension of Bünz, Agrawal, Zamani, and Boneh's Zether protocol.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Solidity",
-            "last_commit": "2024-06-24T13:22:46Z",
-            "owner": "Consensys",
-            "repo": "anonymous-zether",
-            "stars": 309
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Marketplace",
-          "description": "An example application running on top of a GoQuorum network which allows users to bid for and offer virtual hackathon gear for sale in an interactive marketplace. Based on what was originally developed for the MLH Localhost GoQuorum workshop.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-12-03T12:15:24Z",
-            "owner": "lyotam",
-            "repo": "TechMarketplace",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "web3j token sample",
-          "description": "Demonstrates the creation and management of a private token on a GoQuorum network. Written in Java using web3j which is maintained by Web3 Labs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2021-02-10T09:32:14Z",
-            "owner": "web3labs",
-            "repo": "quorum-sample",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Pons bridge",
-          "description": "Pons-Frontend - A sample Cross-Chain Trading Bridge written to run over 2 GoQuorum Chains to safely exchange ERC-20 and ERC-721 assets.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2019-04-24T17:47:02Z",
-            "owner": "M-Bowe",
-            "repo": "pons",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "QBFT Testnet",
-          "description": "an Enterprise Ethereum Alliance initiative to create a conformance testing framework for the QBFT consensus algorithm.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2022-04-16T06:45:15Z",
-            "owner": "EntEthAlliance",
-            "repo": "qbft-testnet",
-            "stars": 0
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ZSL proof of concept",
+              "description": "ZSL for GoQuorum enables the issuance of digital assets using ZSL-enabled public smart contracts (z-contracts). A combination of Tessera private contracts with z-contracts allows obligations that arise from a private contract to be settled using shielded transfers of z-tokens, while maintaining full privacy and confidentiality.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 73670742,
+                "language": "Go",
+                "last_commit": "2026-06-05T02:27:13Z",
+                "owner": "Consensys",
+                "repo": "quorum",
+                "stars": 4764
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "7nodes",
+              "description": "Starts up a fully-functioning GoQuorum environment consisting of 7 independent nodes. Demonstrates consensus, privacy, and all the expected functionality of an Ethereum platform.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 74384436,
+                "language": "Shell",
+                "last_commit": "2024-06-24T13:22:39Z",
+                "owner": "Consensys",
+                "repo": "quorum-examples",
+                "stars": 315
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Anonymous Zether",
+              "description": "A private payment system; an anonymous extension of Bünz, Agrawal, Zamani, and Boneh's Zether protocol.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 186751312,
+                "language": "Solidity",
+                "last_commit": "2024-06-24T13:22:46Z",
+                "owner": "Consensys",
+                "repo": "anonymous-zether",
+                "stars": 309
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Marketplace",
+              "description": "An example application running on top of a GoQuorum network which allows users to bid for and offer virtual hackathon gear for sale in an interactive marketplace. Based on what was originally developed for the MLH Localhost GoQuorum workshop.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 172908043,
+                "language": "JavaScript",
+                "last_commit": "2022-12-03T12:15:24Z",
+                "owner": "lyotam",
+                "repo": "TechMarketplace",
+                "stars": 15
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "web3j token sample",
+              "description": "Demonstrates the creation and management of a private token on a GoQuorum network. Written in Java using web3j which is maintained by Web3 Labs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 175812720,
+                "language": "Java",
+                "last_commit": "2021-02-10T09:32:14Z",
+                "owner": "web3labs",
+                "repo": "quorum-sample",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Pons bridge",
+              "description": "Pons-Frontend - A sample Cross-Chain Trading Bridge written to run over 2 GoQuorum Chains to safely exchange ERC-20 and ERC-721 assets.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 148177039,
+                "language": "Java",
+                "last_commit": "2019-04-24T17:47:02Z",
+                "owner": "M-Bowe",
+                "repo": "pons",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "QBFT Testnet",
+              "description": "an Enterprise Ethereum Alliance initiative to create a conformance testing framework for the QBFT consensus algorithm.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 390269325,
+                "language": "JavaScript",
+                "last_commit": "2022-04-16T06:45:15Z",
+                "owner": "EntEthAlliance",
+                "repo": "qbft-testnet",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Built on Quorum"
         }
       ],
-      "title": "Built on Quorum"
+      "title": "Educational Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T11:35:03.110Z",
+    "last_updated": "2026-08-19T11:34:48.219Z",
     "original_repository": "Consensys/awesome-quorum",
     "original_repository_sha": "ed083f654b2c8b9a515143f9d764518cd7c7f46f",
     "enhanced_repository": "enhansome/enhansome-quorum",
