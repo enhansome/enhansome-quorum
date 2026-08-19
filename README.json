@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 206414745,
                 "language": "Java",
-                "last_commit": "2026-08-19T11:11:20Z",
+                "last_commit": "2026-08-19T12:18:10Z",
                 "owner": "besu-eth",
                 "repo": "besu",
-                "stars": 1827
+                "stars": 1826
               }
             }
           ],
@@ -513,10 +513,10 @@
             "archived": false,
             "id": 206414745,
             "language": "Java",
-            "last_commit": "2026-08-19T11:11:20Z",
+            "last_commit": "2026-08-19T12:18:10Z",
             "owner": "besu-eth",
             "repo": "besu",
-            "stars": 1827
+            "stars": 1826
           }
         }
       ],
@@ -642,8 +642,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T11:34:48.219Z",
+    "last_updated": "2026-08-19T12:50:40.404Z",
     "original_repository": "Consensys/awesome-quorum",
+    "original_repository_id": 331313235,
     "original_repository_sha": "ed083f654b2c8b9a515143f9d764518cd7c7f46f",
     "enhanced_repository": "enhansome/enhansome-quorum",
     "enhanced_repository_description": null,
