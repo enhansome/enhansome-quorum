@@ -1,6 +1,6 @@
 # Awesome Quorum with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,668 | 🐛 102 | 📅 2026-08-18
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 498,027 | 🐛 105 | 📅 2026-08-18
 
 A curated list of awesome softwares, libraries, tools, articles, educational resources, discussion channels and more to build on [ConsenSys Quorum](https://consensys.net/quorum/)
 
@@ -44,7 +44,7 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 ### Enterprise Ethereum Client
 
 * [GoQuorum](https://github.com/ConsenSys/quorum) ⚠️ Archived - Enterprise Ethereum client, fork of Go-Ethereum (aka Geth), compatible with permissioned networks and widely used in production
-* [Hyperledger Besu](https://github.com/hyperledger/besu) ⭐ 1,826 | 🐛 183 | 🌐 Java | 📅 2026-08-19 - Enterprise Ethereum client written in Java under Apache 2.0 license, compatible with both public and permissioned networks
+* [Hyperledger Besu](https://github.com/hyperledger/besu) ⭐ 1,827 | 🐛 199 | 🌐 Java | 📅 2026-08-20 - Enterprise Ethereum client written in Java under Apache 2.0 license, compatible with both public and permissioned networks
 
 ### Private Transaction Manager
 
@@ -75,7 +75,7 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 ### Interoperability
 
 * [Cordage](https://github.com/LayerXcom/cordage) ⚠️ Archived - Cordage makes the interoperability possible from Corda to Quorum and Hyperledger Besu by providing several modules that propagate, pull and verify information between Blockchains without further trusted third party.
-* [Wanchain](https://github.com/wanchain/T-Bridge-Contracts) ⭐ 1 | 🐛 0 | 📅 2020-01-16 - Wanchain Trust Bridge currently provides a reference implementation to connect Wanchain to a private blockchain built with Hyperledger Besu originally from Consensys.
+* [Wanchain](https://github.com/wanchain/T-Bridge-Contracts) - Wanchain Trust Bridge currently provides a reference implementation to connect Wanchain to a private blockchain built with Hyperledger Besu originally from Consensys.
 
 ### Tools
 
@@ -145,7 +145,7 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 ## Contribute
 
 * [Contribute to GoQuorum](https://github.com/ConsenSys/quorum/blob/master/.github/CONTRIBUTING.md) ⚠️ Archived
-* [Contribute to Besu](https://github.com/hyperledger/besu/blob/master/CONTRIBUTING.md) ⭐ 1,826 | 🐛 183 | 🌐 Java | 📅 2026-08-19
+* [Contribute to Besu](https://github.com/hyperledger/besu/blob/master/CONTRIBUTING.md) ⭐ 1,827 | 🐛 199 | 🌐 Java | 📅 2026-08-20
 
 ## Community
 
@@ -234,4 +234,4 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._

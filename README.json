@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 206414745,
                 "language": "Java",
-                "last_commit": "2026-08-19T12:18:10Z",
+                "last_commit": "2026-08-20T10:59:42Z",
                 "owner": "besu-eth",
                 "repo": "besu",
-                "stars": 1826
+                "stars": 1827
               }
             }
           ],
@@ -241,21 +241,6 @@
                 "owner": "LayerXcom",
                 "repo": "cordage",
                 "stars": 54
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Wanchain",
-              "description": "Wanchain Trust Bridge currently provides a reference implementation to connect Wanchain to a private blockchain built with Hyperledger Besu originally from Consensys.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 233992080,
-                "language": null,
-                "last_commit": "2020-01-16T10:27:47Z",
-                "owner": "wanchain",
-                "repo": "T-Bridge-Contracts",
-                "stars": 1
               }
             }
           ],
@@ -513,10 +498,10 @@
             "archived": false,
             "id": 206414745,
             "language": "Java",
-            "last_commit": "2026-08-19T12:18:10Z",
+            "last_commit": "2026-08-20T10:59:42Z",
             "owner": "besu-eth",
             "repo": "besu",
-            "stars": 1826
+            "stars": 1827
           }
         }
       ],
@@ -642,7 +627,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:50:40.404Z",
+    "last_updated": "2026-08-20T11:36:24.335Z",
     "original_repository": "Consensys/awesome-quorum",
     "original_repository_id": 331313235,
     "original_repository_sha": "ed083f654b2c8b9a515143f9d764518cd7c7f46f",
