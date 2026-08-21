@@ -1,6 +1,6 @@
 # Awesome Quorum with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 498,027 | 🐛 105 | 📅 2026-08-18
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 498,471 | 🐛 105 | 📅 2026-08-18
 
 A curated list of awesome softwares, libraries, tools, articles, educational resources, discussion channels and more to build on [ConsenSys Quorum](https://consensys.net/quorum/)
 
@@ -44,7 +44,7 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 ### Enterprise Ethereum Client
 
 * [GoQuorum](https://github.com/ConsenSys/quorum) ⚠️ Archived - Enterprise Ethereum client, fork of Go-Ethereum (aka Geth), compatible with permissioned networks and widely used in production
-* [Hyperledger Besu](https://github.com/hyperledger/besu) ⭐ 1,827 | 🐛 199 | 🌐 Java | 📅 2026-08-20 - Enterprise Ethereum client written in Java under Apache 2.0 license, compatible with both public and permissioned networks
+* [Hyperledger Besu](https://github.com/hyperledger/besu) ⭐ 1,827 | 🐛 200 | 🌐 Java | 📅 2026-08-21 - Enterprise Ethereum client written in Java under Apache 2.0 license, compatible with both public and permissioned networks
 
 ### Private Transaction Manager
 
@@ -145,7 +145,7 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 ## Contribute
 
 * [Contribute to GoQuorum](https://github.com/ConsenSys/quorum/blob/master/.github/CONTRIBUTING.md) ⚠️ Archived
-* [Contribute to Besu](https://github.com/hyperledger/besu/blob/master/CONTRIBUTING.md) ⭐ 1,827 | 🐛 199 | 🌐 Java | 📅 2026-08-20
+* [Contribute to Besu](https://github.com/hyperledger/besu/blob/master/CONTRIBUTING.md) ⭐ 1,827 | 🐛 200 | 🌐 Java | 📅 2026-08-21
 
 ## Community
 
@@ -216,7 +216,7 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
   digital assets using ZSL-enabled public smart contracts (z-contracts).
   A combination of Tessera private contracts with z-contracts allows obligations that arise from a private contract to
   be settled using shielded transfers of z-tokens, while maintaining full privacy and confidentiality.
-* [7nodes](https://github.com/ConsenSys/quorum-examples/tree/master/examples/7nodes) ⭐ 315 | 🐛 14 | 🌐 Shell | 📅 2024-06-24 - Starts up a fully-functioning
+* [7nodes](https://github.com/ConsenSys/quorum-examples/tree/master/examples/7nodes) ⭐ 315 | 🐛 13 | 🌐 Shell | 📅 2024-06-24 - Starts up a fully-functioning
   GoQuorum environment consisting of 7 independent nodes.
   Demonstrates consensus, privacy, and all the expected functionality of an Ethereum platform.
 * [Anonymous Zether](https://github.com/ConsenSys/anonymous-zether/) ⭐ 309 | 🐛 12 | 🌐 Solidity | 📅 2024-06-24 - A private payment system; an anonymous extension
@@ -234,4 +234,4 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
