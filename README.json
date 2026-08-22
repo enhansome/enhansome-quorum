@@ -17,7 +17,7 @@
                 "last_commit": "2026-06-05T02:27:13Z",
                 "owner": "Consensys",
                 "repo": "quorum",
-                "stars": 4764
+                "stars": 4765
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-21T03:42:14Z",
                 "owner": "besu-eth",
                 "repo": "besu",
-                "stars": 1827
+                "stars": 1828
               }
             }
           ],
@@ -445,7 +445,7 @@
                 "last_commit": "2026-06-05T02:27:13Z",
                 "owner": "Consensys",
                 "repo": "quorum",
-                "stars": 4764
+                "stars": 4765
               }
             },
             {
@@ -486,7 +486,7 @@
             "last_commit": "2026-06-05T02:27:13Z",
             "owner": "Consensys",
             "repo": "quorum",
-            "stars": 4764
+            "stars": 4765
           }
         },
         {
@@ -501,7 +501,7 @@
             "last_commit": "2026-08-21T03:42:14Z",
             "owner": "besu-eth",
             "repo": "besu",
-            "stars": 1827
+            "stars": 1828
           }
         }
       ],
@@ -524,7 +524,7 @@
                 "last_commit": "2026-06-05T02:27:13Z",
                 "owner": "Consensys",
                 "repo": "quorum",
-                "stars": 4764
+                "stars": 4765
               }
             },
             {
@@ -627,7 +627,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T11:35:26.899Z",
+    "last_updated": "2026-08-22T11:30:21.278Z",
     "original_repository": "Consensys/awesome-quorum",
     "original_repository_id": 331313235,
     "original_repository_sha": "ed083f654b2c8b9a515143f9d764518cd7c7f46f",
