@@ -1,6 +1,6 @@
 # Awesome Quorum with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,465 | 🐛 106 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,521 | 🐛 106 | 📅 2026-08-21
 
 A curated list of awesome softwares, libraries, tools, articles, educational resources, discussion channels and more to build on [ConsenSys Quorum](https://consensys.net/quorum/)
 
@@ -44,7 +44,7 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 ### Enterprise Ethereum Client
 
 * [GoQuorum](https://github.com/ConsenSys/quorum) ⚠️ Archived - Enterprise Ethereum client, fork of Go-Ethereum (aka Geth), compatible with permissioned networks and widely used in production
-* [Hyperledger Besu](https://github.com/hyperledger/besu) ⭐ 1,829 | 🐛 198 | 🌐 Java | 📅 2026-08-24 - Enterprise Ethereum client written in Java under Apache 2.0 license, compatible with both public and permissioned networks
+* [Hyperledger Besu](https://github.com/hyperledger/besu) ⭐ 1,830 | 🐛 199 | 🌐 Java | 📅 2026-08-24 - Enterprise Ethereum client written in Java under Apache 2.0 license, compatible with both public and permissioned networks
 
 ### Private Transaction Manager
 
@@ -117,8 +117,8 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 
 ### Cloud
 
-* [Quorum Terraform Provider](https://registry.terraform.io/providers/ConsenSys/quorum/latest) - The Quorum provider is used to bootstrap various resources required to create a running Quorum Network
 * [Quorum AWS](https://github.com/ConsenSys/quorum-aws) ⚠️ Archived - Tools to deploy Quorum networks to AWS using Docker and Terraform
+* [Quorum Terraform Provider](https://registry.terraform.io/providers/ConsenSys/quorum/latest) - The Quorum provider is used to bootstrap various resources required to create a running Quorum Network
 * [Azure Blockchain Service](https://docs.microsoft.com/en-us/azure/blockchain/service/develop) - create consortium blockchain networks to enable enterprise scenarios like asset tracking, digital token, loyalty and reward, supply chain financial, and provenance.
 * [SAP Cloud Platform](https://blogs.sap.com/2019/01/11/quorum-on-sap-cloud-platform/) - now offers a free-of-charge “dev” service plan for developers to build with Quorum in a playground environment. The plan offers Quorum instances that are shared with other developers.
 * [Chainstack](https://chainstack.com/) - Managed blockchain services making it simple to launch and scale decentralized networks and applications for ConsenSys Quorum
@@ -145,7 +145,7 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 ## Contribute
 
 * [Contribute to GoQuorum](https://github.com/ConsenSys/quorum/blob/master/.github/CONTRIBUTING.md) ⚠️ Archived
-* [Contribute to Besu](https://github.com/hyperledger/besu/blob/master/CONTRIBUTING.md) ⭐ 1,829 | 🐛 198 | 🌐 Java | 📅 2026-08-24
+* [Contribute to Besu](https://github.com/hyperledger/besu/blob/master/CONTRIBUTING.md) ⭐ 1,830 | 🐛 199 | 🌐 Java | 📅 2026-08-24
 
 ## Community
 
@@ -181,8 +181,8 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 
 ## Educational Resources
 
-* [Hyperledger Besu Essentials](https://training.linuxfoundation.org/training/hyperledger-besu-essentials-creating-a-private-blockchain-network-lfs176x/)
 * [Quorum Workshop - MLH](https://github.com/dyelax/quorum-workshop) ⭐ 0 | 🐛 0 | 🌐 JavaScript | 📅 2018-10-21
+* [Hyperledger Besu Essentials](https://training.linuxfoundation.org/training/hyperledger-besu-essentials-creating-a-private-blockchain-network-lfs176x/)
 * [Quorum Workshop - Blockmatics](https://blockmatics.teachable.com/p/quorum-blockchain-developer-course)
 * [Blockgeeks Guide: Overview of GoQuorum](https://blockgeeks.com/guides/quorum-a-blockchain-platform-for-the-enterprise/)
 * [B9Lab - Quorum Specialization Course](https://academy.b9lab.com/courses/course-v1:B9lab+QSE-X+2018-04/about)

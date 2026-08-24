@@ -29,16 +29,38 @@
                 "archived": false,
                 "id": 206414745,
                 "language": "Java",
-                "last_commit": "2026-08-24T10:40:32Z",
+                "last_commit": "2026-08-24T13:37:12Z",
                 "owner": "besu-eth",
                 "repo": "besu",
-                "stars": 1829
+                "stars": 1830
               }
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "Enterprise Ethereum Client"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Tessera",
+              "description": "Stateless Java system enabling encryption, decryption, and distribution of private transactions for Quorum",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 134236467,
+                "language": "Java",
+                "last_commit": "2026-06-01T02:26:15Z",
+                "owner": "Consensys",
+                "repo": "tessera",
+                "stars": 195
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Private Transaction Manager"
         },
         {
           "children": [
@@ -334,6 +356,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "GoQuorum Acceptance Test",
+              "description": "Acceptance Tests for GoQuorum",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 151734001,
+                "language": "Java",
+                "last_commit": "2024-06-24T13:23:28Z",
+                "owner": "Consensys",
+                "repo": "quorum-acceptance-tests",
+                "stars": 11
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Testing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "gohammer",
               "description": "Quorum and Besu TPS performance tool written in golang. Based on scenario configuration to load transactions to your network.",
               "children": [],
@@ -424,6 +468,50 @@
           "description": null,
           "node_type": "group",
           "title": "Sandbox"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Quorum Kubernetes",
+              "description": "Example reference implementations of private networks using k8s, intended for developers and ops to get familiar with private ethereum network in k8s",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 199794420,
+                "language": "Mustache",
+                "last_commit": "2025-11-02T07:19:33Z",
+                "owner": "Consensys",
+                "repo": "quorum-kubernetes",
+                "stars": 134
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Kubernetes"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Quorum AWS",
+              "description": "Tools to deploy Quorum networks to AWS using Docker and Terraform",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 110884366,
+                "language": "HCL",
+                "last_commit": "2024-06-24T13:23:44Z",
+                "owner": "Consensys",
+                "repo": "quorum-aws",
+                "stars": 34
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Cloud"
         }
       ],
       "title": "Deployment"
@@ -498,10 +586,10 @@
             "archived": false,
             "id": 206414745,
             "language": "Java",
-            "last_commit": "2026-08-24T10:40:32Z",
+            "last_commit": "2026-08-24T13:37:12Z",
             "owner": "besu-eth",
             "repo": "besu",
-            "stars": 1829
+            "stars": 1830
           }
         }
       ],
@@ -510,6 +598,21 @@
     {
       "description": null,
       "items": [
+        {
+          "node_type": "item",
+          "title": "Quorum Workshop - MLH",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 154058022,
+            "language": "JavaScript",
+            "last_commit": "2018-10-21T23:17:02Z",
+            "owner": "dyelax",
+            "repo": "quorum-workshop",
+            "stars": 0
+          }
+        },
         {
           "children": [
             {
@@ -627,7 +730,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T11:37:59.498Z",
+    "last_updated": "2026-08-24T14:49:29.055Z",
     "original_repository": "Consensys/awesome-quorum",
     "original_repository_id": 331313235,
     "original_repository_sha": "ed083f654b2c8b9a515143f9d764518cd7c7f46f",
