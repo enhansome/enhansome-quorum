@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 206414745,
                 "language": "Java",
-                "last_commit": "2026-08-27T10:08:26Z",
+                "last_commit": "2026-08-27T12:18:23Z",
                 "owner": "besu-eth",
                 "repo": "besu",
-                "stars": 1830
+                "stars": 1831
               }
             }
           ],
@@ -586,10 +586,10 @@
             "archived": false,
             "id": 206414745,
             "language": "Java",
-            "last_commit": "2026-08-27T10:08:26Z",
+            "last_commit": "2026-08-27T12:18:23Z",
             "owner": "besu-eth",
             "repo": "besu",
-            "stars": 1830
+            "stars": 1831
           }
         }
       ],
@@ -730,7 +730,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:01:28.848Z",
+    "last_updated": "2026-08-27T20:59:21.803Z",
     "original_repository_info": {
       "archived": false,
       "id": 331313235,
