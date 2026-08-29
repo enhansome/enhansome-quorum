@@ -1,6 +1,6 @@
 # Awesome Quorum with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,830 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,897 | 🐛 105 | 📅 2026-08-21
 
 A curated list of awesome softwares, libraries, tools, articles, educational resources, discussion channels and more to build on [ConsenSys Quorum](https://consensys.net/quorum/)
 
@@ -234,4 +234,4 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

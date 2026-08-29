@@ -12,12 +12,30 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A permissioned implementation of Ethereum supporting data privacy",
+                "homepage": "https://www.goquorum.com/",
                 "id": 73670742,
                 "language": "Go",
+                "license": "LGPL-3.0",
                 "last_commit": "2026-06-05T02:27:13Z",
+                "open_issues": 0,
                 "owner": "Consensys",
                 "repo": "quorum",
-                "stars": 4765
+                "stars": 4765,
+                "topics": [
+                  "blockchain",
+                  "consensus",
+                  "eea",
+                  "enterprise-ethereum",
+                  "enterprise-ethereum-client",
+                  "ethereum",
+                  "go",
+                  "goquorum",
+                  "ledger",
+                  "privacy",
+                  "protocols-team-goquorum",
+                  "quorum"
+                ]
               },
               "first_seen": "2026-08-28T21:21:08.193Z"
             },
@@ -28,12 +46,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An enterprise-grade Java-based, Apache 2.0 licensed Ethereum client https://github.com/besu-eth/besu/wiki",
+                "homepage": "https://www.lfdecentralizedtrust.org/projects/besu",
                 "id": 206414745,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T15:16:44Z",
+                "open_issues": 177,
                 "owner": "besu-eth",
                 "repo": "besu",
-                "stars": 1830
+                "stars": 1830,
+                "topics": [
+                  "besu",
+                  "blockchain",
+                  "ethereum",
+                  "java",
+                  "p2p"
+                ]
               },
               "first_seen": "2026-08-28T21:21:08.193Z"
             }
@@ -51,12 +80,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Tessera - Enterprise Implementation of Quorum's transaction manager",
+                "homepage": "https://docs.tessera.consensys.net/",
                 "id": 134236467,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-01T02:26:15Z",
+                "open_issues": 0,
                 "owner": "Consensys",
                 "repo": "tessera",
-                "stars": 195
+                "stars": 195,
+                "topics": [
+                  "blockchain",
+                  "encryption",
+                  "java",
+                  "peer-to-peer",
+                  "privacy",
+                  "quorum"
+                ]
               },
               "first_seen": "2026-08-28T21:21:08.193Z"
             }
@@ -74,12 +115,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "DEPRECATED. A transaction signing application to be used with a web3 provider.",
+                "homepage": null,
                 "id": 173230987,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2024-04-04T04:00:30Z",
+                "open_issues": 5,
                 "owner": "Consensys",
                 "repo": "ethsigner",
-                "stars": 112
+                "stars": 112,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:21:08.193Z"
             },
@@ -90,12 +136,19 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A secret engine plugin for Hashicorp Vault that stores quorum accounts and uses them to sign data ",
+                "homepage": null,
                 "id": 287908330,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2024-06-05T02:17:01Z",
+                "open_issues": 2,
                 "owner": "Consensys",
                 "repo": "quorum-signer-plugin-for-hashicorp-vault",
-                "stars": 6
+                "stars": 6,
+                "topics": [
+                  "protocols-team-goquorum"
+                ]
               },
               "first_seen": "2026-08-28T21:21:08.193Z"
             }
@@ -113,12 +166,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hyperledger Besu plugins",
+                "homepage": "https://doc.quorumplugins.consensys.net/en/latest/Concepts/Besu-Plugins/Event-Streams/",
                 "id": 282825509,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-13T14:50:30Z",
+                "open_issues": 5,
                 "owner": "Consensys",
                 "repo": "besu-plugins",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:21:08.193Z"
             },
@@ -129,12 +187,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Hyperledger Besu plugins",
+                "homepage": "https://doc.quorumplugins.consensys.net/en/latest/Concepts/Besu-Plugins/Event-Streams/",
                 "id": 282825509,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-13T14:50:30Z",
+                "open_issues": 5,
                 "owner": "Consensys",
                 "repo": "besu-plugins",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:21:08.193Z"
             },
@@ -145,12 +208,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Quorum plugin for Remix IDE",
+                "homepage": null,
                 "id": 215861816,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2024-06-24T13:23:42Z",
+                "open_issues": 18,
                 "owner": "Consensys",
                 "repo": "quorum-remix",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "ethereum",
+                  "goquorum",
+                  "protocols-team-goquorum",
+                  "remix"
+                ]
               },
               "first_seen": "2026-08-28T21:21:08.193Z"
             },
@@ -161,12 +234,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Quorum account plugin that enables storing accounts in a Hashicorp Vault",
+                "homepage": null,
                 "id": 218277652,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-12T13:52:23Z",
+                "open_issues": 5,
                 "owner": "Consensys",
                 "repo": "quorum-account-plugin-hashicorp-vault",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "protocols-team-goquorum"
+                ]
               },
               "first_seen": "2026-08-28T21:21:08.193Z"
             },
@@ -177,12 +257,19 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 238762844,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2024-06-24T13:23:40Z",
+                "open_issues": 1,
                 "owner": "Consensys",
                 "repo": "quorum-plugin-definitions",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "protocols-team-goquorum"
+                ]
               },
               "first_seen": "2026-08-28T21:21:08.193Z"
             },
@@ -193,12 +280,19 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Quorum Security Plugin to provide TLS configuration and enable OAuth2-compliant resource server for JSON RPC",
+                "homepage": null,
                 "id": 198226872,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2024-06-24T13:23:03Z",
+                "open_issues": 3,
                 "owner": "Consensys",
                 "repo": "quorum-security-plugin-enterprise",
-                "stars": 5
+                "stars": 5,
+                "topics": [
+                  "protocols-team-goquorum"
+                ]
               },
               "first_seen": "2026-08-28T21:21:08.193Z"
             }
@@ -216,12 +310,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "web3j integration layer for JP Morgan's Quorum",
+                "homepage": "https://www.web3labs.com",
                 "id": 78003032,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2023-05-16T12:49:38Z",
+                "open_issues": 1,
                 "owner": "web3j",
                 "repo": "web3j-quorum",
-                "stars": 120
+                "stars": 120,
+                "topics": [
+                  "ethereum",
+                  "java",
+                  "quorum",
+                  "web3j"
+                ]
               },
               "first_seen": "2026-08-28T21:21:08.193Z"
             },
@@ -232,12 +336,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A web3py extension that supports Quorum APIs: Raft and Istanbul",
+                "homepage": "https://chainstack.com/quorum/",
                 "id": 222458898,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-30T02:34:40Z",
+                "open_issues": 0,
                 "owner": "chainstack",
                 "repo": "web3quorum",
-                "stars": 3
+                "stars": 3,
+                "topics": [
+                  "blockchain",
+                  "python-library",
+                  "quorum",
+                  "web3py"
+                ]
               },
               "first_seen": "2026-08-28T21:21:08.193Z"
             },
@@ -248,12 +362,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tools and scripts for Quorum configuration",
+                "homepage": null,
                 "id": 157188860,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2020-05-28T16:00:38Z",
+                "open_issues": 0,
                 "owner": "chainstack",
                 "repo": "quorum-toolbox",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "blockchain",
+                  "docker",
+                  "geth",
+                  "python-library",
+                  "quorum"
+                ]
               },
               "first_seen": "2026-08-28T21:21:08.193Z"
             }
@@ -271,12 +396,26 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Cordage: the blockchain interoperability project!",
+                "homepage": "https://layerxcom.github.io/cordage/en/",
                 "id": 241547980,
                 "language": "Kotlin",
+                "license": "NOASSERTION",
                 "last_commit": "2023-09-27T21:03:23Z",
+                "open_issues": 47,
                 "owner": "LayerXcom",
                 "repo": "cordage",
-                "stars": 54
+                "stars": 54,
+                "topics": [
+                  "blockchain",
+                  "corda",
+                  "cordage",
+                  "cross-chain-applications",
+                  "ethereum",
+                  "hyperledger-besu",
+                  "interoperability",
+                  "quorum"
+                ]
               },
               "first_seen": "2026-08-28T21:21:08.193Z"
             }
@@ -294,12 +433,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "An integrated development environment and SDK for Ethereum-like ledgers",
+                "homepage": "https://www.goquorum.com",
                 "id": 76374271,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2022-05-26T23:22:43Z",
+                "open_issues": 25,
                 "owner": "Consensys",
                 "repo": "cakeshop",
-                "stars": 500
+                "stars": 500,
+                "topics": [
+                  "blockchain",
+                  "editor",
+                  "ethereum",
+                  "ide",
+                  "ledger",
+                  "sdk"
+                ]
               },
               "first_seen": "2026-08-28T21:21:08.193Z"
             },
@@ -310,12 +461,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Smart contracts for the Besu permissioning system",
+                "homepage": null,
                 "id": 179194239,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2023-01-16T23:55:49Z",
+                "open_issues": 0,
                 "owner": "Consensys",
                 "repo": "permissioning-smart-contracts",
-                "stars": 49
+                "stars": 49,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:21:08.193Z"
             },
@@ -326,12 +482,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Istanbul BFT configuration tools",
+                "homepage": null,
                 "id": 137351451,
                 "language": "Go",
+                "license": "LGPL-3.0",
                 "last_commit": "2023-04-10T13:50:21Z",
+                "open_issues": 1,
                 "owner": "Consensys",
                 "repo": "istanbul-tools",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:21:08.193Z"
             },
@@ -342,12 +503,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Quorum plugin for Remix IDE",
+                "homepage": null,
                 "id": 215861816,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2024-06-24T13:23:42Z",
+                "open_issues": 18,
                 "owner": "Consensys",
                 "repo": "quorum-remix",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "ethereum",
+                  "goquorum",
+                  "protocols-team-goquorum",
+                  "remix"
+                ]
               },
               "first_seen": "2026-08-28T21:21:08.193Z"
             },
@@ -358,12 +529,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 244806207,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2024-06-24T13:24:50Z",
+                "open_issues": 16,
                 "owner": "Consensys",
                 "repo": "quorum-reporting",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:21:08.193Z"
             }
@@ -381,12 +557,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Acceptance Tests for Quorum",
+                "homepage": "https://github.com/ConsenSys/quorum-acceptance-tests#readme",
                 "id": 151734001,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2024-06-24T13:23:28Z",
+                "open_issues": 4,
                 "owner": "Consensys",
                 "repo": "quorum-acceptance-tests",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "docker",
+                  "features",
+                  "gauge",
+                  "protocols-team-goquorum",
+                  "quorum",
+                  "test"
+                ]
               },
               "first_seen": "2026-08-28T21:21:08.193Z"
             }
@@ -404,12 +592,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 325018088,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2021-11-12T09:36:56Z",
+                "open_issues": 1,
                 "owner": "tubuarge",
                 "repo": "gohammer",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:21:08.193Z"
             },
@@ -420,12 +613,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "quorum stress test related tools",
+                "homepage": null,
                 "id": 247661029,
                 "language": "HCL",
+                "license": "Apache-2.0",
                 "last_commit": "2024-06-24T13:23:54Z",
+                "open_issues": 6,
                 "owner": "Consensys",
                 "repo": "quorum-profiling",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:21:08.193Z"
             }
@@ -449,12 +647,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ethereum, Hyperledger Besu and Quorum blockchain explorer ",
+                "homepage": "https://chainlens.com",
                 "id": 189044286,
                 "language": "HTML",
+                "license": "NOASSERTION",
                 "last_commit": "2024-04-23T10:06:02Z",
+                "open_issues": 16,
                 "owner": "web3labs",
                 "repo": "chainlens-free",
-                "stars": 264
+                "stars": 264,
+                "topics": [
+                  "blockchain",
+                  "dashbard",
+                  "docker",
+                  "enterprise",
+                  "ethereum",
+                  "hyperledger",
+                  "quorum",
+                  "web3j"
+                ]
               },
               "first_seen": "2026-08-28T21:21:08.193Z"
             },
@@ -465,12 +677,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Utility to create and monitor Quorum nodes",
+                "homepage": null,
                 "id": 98545964,
                 "language": "Shell",
+                "license": "Apache-2.0",
                 "last_commit": "2022-07-05T06:12:30Z",
+                "open_issues": 49,
                 "owner": "synechron-finlabs",
                 "repo": "quorum-maker",
-                "stars": 192
+                "stars": 192,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:21:08.193Z"
             },
@@ -481,12 +698,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "The Quorum Developer Quickstart utility can be used to rapidly generate local Quorum blockchain networks for development and demo purposes using Besu and GoQuorum",
+                "homepage": null,
                 "id": 281021656,
                 "language": "Solidity",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-19T02:58:07Z",
+                "open_issues": 11,
                 "owner": "Consensys",
                 "repo": "quorum-dev-quickstart",
-                "stars": 146
+                "stars": 146,
+                "topics": [
+                  "blockchain",
+                  "docker",
+                  "ethereum",
+                  "hyperledger-besu",
+                  "quorum"
+                ]
               },
               "first_seen": "2026-08-28T21:21:08.193Z"
             }
@@ -504,12 +732,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Helm charts for Hyperledger Besu and GoQuorum",
+                "homepage": null,
                 "id": 199794420,
                 "language": "Mustache",
+                "license": "Apache-2.0",
                 "last_commit": "2025-11-02T07:19:33Z",
+                "open_issues": 8,
                 "owner": "Consensys",
                 "repo": "quorum-kubernetes",
-                "stars": 134
+                "stars": 134,
+                "topics": [
+                  "besu",
+                  "goquorum",
+                  "helm",
+                  "hyperledger",
+                  "k8s",
+                  "kubernetes"
+                ]
               },
               "first_seen": "2026-08-28T21:21:08.193Z"
             }
@@ -527,12 +767,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Tools for deploying Quorum clusters to AWS",
+                "homepage": null,
                 "id": 110884366,
                 "language": "HCL",
+                "license": "NOASSERTION",
                 "last_commit": "2024-06-24T13:23:44Z",
+                "open_issues": 5,
                 "owner": "Consensys",
                 "repo": "quorum-aws",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:21:08.193Z"
             }
@@ -556,12 +801,30 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A permissioned implementation of Ethereum supporting data privacy",
+                "homepage": "https://www.goquorum.com/",
                 "id": 73670742,
                 "language": "Go",
+                "license": "LGPL-3.0",
                 "last_commit": "2026-06-05T02:27:13Z",
+                "open_issues": 0,
                 "owner": "Consensys",
                 "repo": "quorum",
-                "stars": 4765
+                "stars": 4765,
+                "topics": [
+                  "blockchain",
+                  "consensus",
+                  "eea",
+                  "enterprise-ethereum",
+                  "enterprise-ethereum-client",
+                  "ethereum",
+                  "go",
+                  "goquorum",
+                  "ledger",
+                  "privacy",
+                  "protocols-team-goquorum",
+                  "quorum"
+                ]
               },
               "first_seen": "2026-08-28T21:21:08.193Z"
             },
@@ -572,12 +835,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 271373815,
                 "language": null,
+                "license": null,
                 "last_commit": "2020-08-27T13:31:22Z",
+                "open_issues": 0,
                 "owner": "Consensys",
                 "repo": "quorum-ibft",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:21:08.193Z"
             }
@@ -599,12 +867,30 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A permissioned implementation of Ethereum supporting data privacy",
+            "homepage": "https://www.goquorum.com/",
             "id": 73670742,
             "language": "Go",
+            "license": "LGPL-3.0",
             "last_commit": "2026-06-05T02:27:13Z",
+            "open_issues": 0,
             "owner": "Consensys",
             "repo": "quorum",
-            "stars": 4765
+            "stars": 4765,
+            "topics": [
+              "blockchain",
+              "consensus",
+              "eea",
+              "enterprise-ethereum",
+              "enterprise-ethereum-client",
+              "ethereum",
+              "go",
+              "goquorum",
+              "ledger",
+              "privacy",
+              "protocols-team-goquorum",
+              "quorum"
+            ]
           },
           "first_seen": "2026-08-28T21:21:08.193Z"
         },
@@ -615,12 +901,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An enterprise-grade Java-based, Apache 2.0 licensed Ethereum client https://github.com/besu-eth/besu/wiki",
+            "homepage": "https://www.lfdecentralizedtrust.org/projects/besu",
             "id": 206414745,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T15:16:44Z",
+            "open_issues": 177,
             "owner": "besu-eth",
             "repo": "besu",
-            "stars": 1830
+            "stars": 1830,
+            "topics": [
+              "besu",
+              "blockchain",
+              "ethereum",
+              "java",
+              "p2p"
+            ]
           },
           "first_seen": "2026-08-28T21:21:08.193Z"
         }
@@ -637,12 +934,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 154058022,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2018-10-21T23:17:02Z",
+            "open_issues": 0,
             "owner": "dyelax",
             "repo": "quorum-workshop",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:21:08.193Z"
         },
@@ -655,12 +957,30 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A permissioned implementation of Ethereum supporting data privacy",
+                "homepage": "https://www.goquorum.com/",
                 "id": 73670742,
                 "language": "Go",
+                "license": "LGPL-3.0",
                 "last_commit": "2026-06-05T02:27:13Z",
+                "open_issues": 0,
                 "owner": "Consensys",
                 "repo": "quorum",
-                "stars": 4765
+                "stars": 4765,
+                "topics": [
+                  "blockchain",
+                  "consensus",
+                  "eea",
+                  "enterprise-ethereum",
+                  "enterprise-ethereum-client",
+                  "ethereum",
+                  "go",
+                  "goquorum",
+                  "ledger",
+                  "privacy",
+                  "protocols-team-goquorum",
+                  "quorum"
+                ]
               },
               "first_seen": "2026-08-28T21:21:08.193Z"
             },
@@ -671,12 +991,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Examples for Quorum",
+                "homepage": null,
                 "id": 74384436,
                 "language": "Shell",
+                "license": "Apache-2.0",
                 "last_commit": "2024-06-24T13:22:39Z",
+                "open_issues": 13,
                 "owner": "Consensys",
                 "repo": "quorum-examples",
-                "stars": 315
+                "stars": 315,
+                "topics": [
+                  "goquorum",
+                  "protocols-team-goquorum",
+                  "quorum"
+                ]
               },
               "first_seen": "2026-08-28T21:21:08.193Z"
             },
@@ -687,12 +1016,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A private payment system for Ethereum-based blockchains, with no trusted setup.",
+                "homepage": null,
                 "id": 186751312,
                 "language": "Solidity",
+                "license": "NOASSERTION",
                 "last_commit": "2024-06-24T13:22:46Z",
+                "open_issues": 12,
                 "owner": "Consensys",
                 "repo": "anonymous-zether",
-                "stars": 309
+                "stars": 309,
+                "topics": [
+                  "protocols-team-goquorum"
+                ]
               },
               "first_seen": "2026-08-28T21:21:08.193Z"
             },
@@ -703,12 +1039,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Marketplace Application with Private Bidding & Purchase Running on Quorum Blockchain",
+                "homepage": null,
                 "id": 172908043,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2022-12-03T12:15:24Z",
+                "open_issues": 9,
                 "owner": "lyotam",
                 "repo": "TechMarketplace",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:21:08.193Z"
             },
@@ -719,12 +1060,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sample Token Project for Quorum",
+                "homepage": "https://www.web3labs.com",
                 "id": 175812720,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2021-02-10T09:32:14Z",
+                "open_issues": 0,
                 "owner": "web3labs",
                 "repo": "quorum-sample",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "blockchain",
+                  "ethereum",
+                  "java",
+                  "java8",
+                  "quorum",
+                  "web3j"
+                ]
               },
               "first_seen": "2026-08-28T21:21:08.193Z"
             },
@@ -735,12 +1088,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pons - Cross-Chain Trading Bridge",
+                "homepage": null,
                 "id": 148177039,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2019-04-24T17:47:02Z",
+                "open_issues": 0,
                 "owner": "M-Bowe",
                 "repo": "pons",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:21:08.193Z"
             },
@@ -751,12 +1109,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 390269325,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2022-04-16T06:45:15Z",
+                "open_issues": 0,
                 "owner": "EntEthAlliance",
                 "repo": "qbft-testnet",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:21:08.193Z"
             }
@@ -770,15 +1133,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:21:08.193Z",
+    "last_updated": "2026-08-29T05:05:08.416Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome softwares, libraries, tools, articles, educational resources, discussion channels and more to build on ConsenSys Quorum.",
+      "homepage": "https://consensys.net/quorum/",
       "id": 331313235,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-05-13T14:48:51Z",
+      "open_issues": 3,
       "owner": "Consensys",
       "repo": "awesome-quorum",
-      "stars": 58
+      "stars": 58,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "consensys-quorum",
+        "enterprise-ethereum-client",
+        "list",
+        "quorum-network"
+      ]
     },
     "original_repository_sha": "ed083f654b2c8b9a515143f9d764518cd7c7f46f",
     "enhanced_repository": "enhansome/enhansome-quorum",
