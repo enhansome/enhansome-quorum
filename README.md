@@ -1,6 +1,6 @@
 # Awesome Quorum with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 502,924 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 503,187 | 🐛 106 | 📅 2026-09-02
 
 A curated list of awesome softwares, libraries, tools, articles, educational resources, discussion channels and more to build on [ConsenSys Quorum](https://consensys.net/quorum/)
 
@@ -44,7 +44,7 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 ### Enterprise Ethereum Client
 
 * [GoQuorum](https://github.com/ConsenSys/quorum) ⚠️ Archived - Enterprise Ethereum client, fork of Go-Ethereum (aka Geth), compatible with permissioned networks and widely used in production
-* [Hyperledger Besu](https://github.com/hyperledger/besu) ⭐ 1,832 | 🐛 162 | 🌐 Java | 📅 2026-09-04 - Enterprise Ethereum client written in Java under Apache 2.0 license, compatible with both public and permissioned networks
+* [Hyperledger Besu](https://github.com/hyperledger/besu) ⭐ 1,832 | 🐛 161 | 🌐 Java | 📅 2026-09-05 - Enterprise Ethereum client written in Java under Apache 2.0 license, compatible with both public and permissioned networks
 
 ### Private Transaction Manager
 
@@ -81,9 +81,9 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 
 * [Cakeshop](https://github.com/ConsenSys/cakeshop) ⚠️ Archived - Set of tools and APIs for working with Ethereum-like ledgers, packaged as a Java web application archive
 * [Besu permissioning dApp](https://github.com/ConsenSys/permissioning-smart-contracts) ⚠️ Archived - Facilitate managing permissioning rules and maintaining the list of admin accounts that can edit rules
-* [Istanbul Tools](https://github.com/ConsenSys/istanbul-tools) ⚠️ Archived - Tools for configuring Istanbul BFT (IBFT) network
 * [Quorum Remix](https://github.com/ConsenSys/quorum-remix) ⚠️ Archived - Quorum plugin for Ethereum's Remix IDE adds support for creating and interacting with private contracts on a Quorum network
 * [Quorum reporting](https://github.com/ConsenSys/quorum-reporting) ⚠️ Archived - Tool that indexes blocks and transactions in a Quorum network and generates reports to give users insights into what is happening with their contracts
+* [Istanbul Tools](https://github.com/ConsenSys/istanbul-tools) - Tools for configuring Istanbul BFT (IBFT) network
 * [Quorum-Splunk](https://www.splunk.com/en_us/blog/it/introducing-splunk-app-for-quorum.html) - Using Splunk for quorum blockchain analytics and dashboards
 * [Mirror Besu](https://www.npmjs.com/package/mirror-besu) - compiling, testing and deployment for Hyperledger Besu, aiming to make life as an Enterprise Ethereum developer easier.
 * [Ethernal](https://tryethernal.com/) - Block explorer for private EVM-based chains.
@@ -145,7 +145,7 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 ## Contribute
 
 * [Contribute to GoQuorum](https://github.com/ConsenSys/quorum/blob/master/.github/CONTRIBUTING.md) ⚠️ Archived
-* [Contribute to Besu](https://github.com/hyperledger/besu/blob/master/CONTRIBUTING.md) ⭐ 1,832 | 🐛 162 | 🌐 Java | 📅 2026-09-04
+* [Contribute to Besu](https://github.com/hyperledger/besu/blob/master/CONTRIBUTING.md) ⭐ 1,832 | 🐛 161 | 🌐 Java | 📅 2026-09-05
 
 ## Community
 
@@ -234,4 +234,4 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
