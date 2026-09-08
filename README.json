@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "Consensys-Incorporated",
                 "repo": "quorum",
-                "stars": 4763,
+                "stars": 4762,
                 "topics": [
                   "blockchain",
                   "consensus",
@@ -51,8 +51,8 @@
                 "id": 206414745,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-07T14:15:41Z",
-                "open_issues": 164,
+                "last_commit": "2026-09-08T12:30:20Z",
+                "open_issues": 162,
                 "owner": "besu-eth",
                 "repo": "besu",
                 "stars": 1831,
@@ -789,7 +789,7 @@
                 "open_issues": 0,
                 "owner": "Consensys-Incorporated",
                 "repo": "quorum",
-                "stars": 4763,
+                "stars": 4762,
                 "topics": [
                   "blockchain",
                   "consensus",
@@ -855,7 +855,7 @@
             "open_issues": 0,
             "owner": "Consensys-Incorporated",
             "repo": "quorum",
-            "stars": 4763,
+            "stars": 4762,
             "topics": [
               "blockchain",
               "consensus",
@@ -885,8 +885,8 @@
             "id": 206414745,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-07T14:15:41Z",
-            "open_issues": 164,
+            "last_commit": "2026-09-08T12:30:20Z",
+            "open_issues": 162,
             "owner": "besu-eth",
             "repo": "besu",
             "stars": 1831,
@@ -945,7 +945,7 @@
                 "open_issues": 0,
                 "owner": "Consensys-Incorporated",
                 "repo": "quorum",
-                "stars": 4763,
+                "stars": 4762,
                 "topics": [
                   "blockchain",
                   "consensus",
@@ -1112,7 +1112,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T16:24:24.633Z",
+    "last_updated": "2026-09-08T15:02:51.801Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome softwares, libraries, tools, articles, educational resources, discussion channels and more to build on ConsenSys Quorum.",
