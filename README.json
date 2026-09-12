@@ -52,10 +52,10 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-11T10:27:50Z",
-                "open_issues": 165,
+                "open_issues": 166,
                 "owner": "besu-eth",
                 "repo": "besu",
-                "stars": 1833,
+                "stars": 1834,
                 "topics": [
                   "besu",
                   "blockchain",
@@ -886,10 +886,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-09-11T10:27:50Z",
-            "open_issues": 165,
+            "open_issues": 166,
             "owner": "besu-eth",
             "repo": "besu",
-            "stars": 1833,
+            "stars": 1834,
             "topics": [
               "besu",
               "blockchain",
@@ -1112,7 +1112,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T14:57:31.960Z",
+    "last_updated": "2026-09-12T14:01:52.626Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome softwares, libraries, tools, articles, educational resources, discussion channels and more to build on ConsenSys Quorum.",
