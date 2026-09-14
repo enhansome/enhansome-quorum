@@ -1,12 +1,12 @@
 # Awesome Quorum with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 505,634 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 505,979 | 🐛 106 | 📅 2026-09-02
 
 A curated list of awesome softwares, libraries, tools, articles, educational resources, discussion channels and more to build on [ConsenSys Quorum](https://consensys.net/quorum/)
 
 ConsenSys Quorum is a foundational open-source protocol layer that enables Enterprise Ethereum blockchain. It provides an extensive set of software components such as Enterprise Ethereum clients, private transactions managers, private key managers, plugins, libraries... to build decentralized platforms. ConsenSys Quorum is maintained by both engineering teams at [ConsenSys](https://consensys.net/) and the open-source community :heart:
 
-Contributions to this list are wery welcome :dolphin: You can add links through [pull requests](https://github.com/ConsenSys/awesome-quorum/pulls) ⭐ 58 | 🐛 3 | 📅 2026-05-13 or create an [issue](https://github.com/ConsenSys/awesome-quorum/issues) ⭐ 58 | 🐛 3 | 📅 2026-05-13.
+Contributions to this list are wery welcome :dolphin: You can add links through [pull requests](https://github.com/ConsenSys/awesome-quorum/pulls) ⚠️ Archived or create an [issue](https://github.com/ConsenSys/awesome-quorum/issues) ⚠️ Archived.
 
 ## Contents
 
@@ -44,7 +44,7 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 ### Enterprise Ethereum Client
 
 * [GoQuorum](https://github.com/ConsenSys/quorum) ⚠️ Archived - Enterprise Ethereum client, fork of Go-Ethereum (aka Geth), compatible with permissioned networks and widely used in production
-* [Hyperledger Besu](https://github.com/hyperledger/besu) ⭐ 1,834 | 🐛 166 | 🌐 Java | 📅 2026-09-11 - Enterprise Ethereum client written in Java under Apache 2.0 license, compatible with both public and permissioned networks
+* [Hyperledger Besu](https://github.com/hyperledger/besu) ⭐ 1,835 | 🐛 168 | 🌐 Java | 📅 2026-09-14 - Enterprise Ethereum client written in Java under Apache 2.0 license, compatible with both public and permissioned networks
 
 ### Private Transaction Manager
 
@@ -145,7 +145,7 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 ## Contribute
 
 * [Contribute to GoQuorum](https://github.com/ConsenSys/quorum/blob/master/.github/CONTRIBUTING.md) ⚠️ Archived
-* [Contribute to Besu](https://github.com/hyperledger/besu/blob/master/CONTRIBUTING.md) ⭐ 1,834 | 🐛 166 | 🌐 Java | 📅 2026-09-11
+* [Contribute to Besu](https://github.com/hyperledger/besu/blob/master/CONTRIBUTING.md) ⭐ 1,835 | 🐛 168 | 🌐 Java | 📅 2026-09-14
 
 ## Community
 
@@ -216,7 +216,7 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
   digital assets using ZSL-enabled public smart contracts (z-contracts).
   A combination of Tessera private contracts with z-contracts allows obligations that arise from a private contract to
   be settled using shielded transfers of z-tokens, while maintaining full privacy and confidentiality.
-* [7nodes](https://github.com/ConsenSys/quorum-examples/tree/master/examples/7nodes) ⭐ 315 | 🐛 13 | 🌐 Shell | 📅 2024-06-24 - Starts up a fully-functioning
+* [7nodes](https://github.com/ConsenSys/quorum-examples/tree/master/examples/7nodes) ⚠️ Archived - Starts up a fully-functioning
   GoQuorum environment consisting of 7 independent nodes.
   Demonstrates consensus, privacy, and all the expected functionality of an Ethereum platform.
 * [Anonymous Zether](https://github.com/ConsenSys/anonymous-zether/) ⭐ 309 | 🐛 12 | 🌐 Solidity | 📅 2024-06-24 - A private payment system; an anonymous extension
@@ -234,4 +234,4 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._

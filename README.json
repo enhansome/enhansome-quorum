@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "Consensys-Incorporated",
                 "repo": "quorum",
-                "stars": 4762,
+                "stars": 4763,
                 "topics": [
                   "blockchain",
                   "consensus",
@@ -51,11 +51,11 @@
                 "id": 206414745,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-11T10:27:50Z",
-                "open_issues": 166,
+                "last_commit": "2026-09-14T10:29:19Z",
+                "open_issues": 168,
                 "owner": "besu-eth",
                 "repo": "besu",
-                "stars": 1834,
+                "stars": 1835,
                 "topics": [
                   "besu",
                   "blockchain",
@@ -789,7 +789,7 @@
                 "open_issues": 0,
                 "owner": "Consensys-Incorporated",
                 "repo": "quorum",
-                "stars": 4762,
+                "stars": 4763,
                 "topics": [
                   "blockchain",
                   "consensus",
@@ -855,7 +855,7 @@
             "open_issues": 0,
             "owner": "Consensys-Incorporated",
             "repo": "quorum",
-            "stars": 4762,
+            "stars": 4763,
             "topics": [
               "blockchain",
               "consensus",
@@ -885,11 +885,11 @@
             "id": 206414745,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T10:27:50Z",
-            "open_issues": 166,
+            "last_commit": "2026-09-14T10:29:19Z",
+            "open_issues": 168,
             "owner": "besu-eth",
             "repo": "besu",
-            "stars": 1834,
+            "stars": 1835,
             "topics": [
               "besu",
               "blockchain",
@@ -945,7 +945,7 @@
                 "open_issues": 0,
                 "owner": "Consensys-Incorporated",
                 "repo": "quorum",
-                "stars": 4762,
+                "stars": 4763,
                 "topics": [
                   "blockchain",
                   "consensus",
@@ -969,7 +969,7 @@
               "description": "Starts up a fully-functioning GoQuorum environment consisting of 7 independent nodes. Demonstrates consensus, privacy, and all the expected functionality of an Ethereum platform.",
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "Examples for Quorum",
                 "homepage": null,
                 "id": 74384436,
@@ -1112,9 +1112,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T14:54:08.836Z",
+    "last_updated": "2026-09-14T16:55:48.787Z",
     "original_repository_info": {
-      "archived": false,
+      "archived": true,
       "description": "A curated list of awesome softwares, libraries, tools, articles, educational resources, discussion channels and more to build on ConsenSys Quorum.",
       "homepage": "https://consensys.net/quorum/",
       "id": 331313235,
