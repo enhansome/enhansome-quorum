@@ -1,6 +1,6 @@
 # Awesome Quorum with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 505,979 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 506,253 | 🐛 106 | 📅 2026-09-02
 
 A curated list of awesome softwares, libraries, tools, articles, educational resources, discussion channels and more to build on [ConsenSys Quorum](https://consensys.net/quorum/)
 
@@ -44,7 +44,7 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 ### Enterprise Ethereum Client
 
 * [GoQuorum](https://github.com/ConsenSys/quorum) ⚠️ Archived - Enterprise Ethereum client, fork of Go-Ethereum (aka Geth), compatible with permissioned networks and widely used in production
-* [Hyperledger Besu](https://github.com/hyperledger/besu) ⭐ 1,835 | 🐛 168 | 🌐 Java | 📅 2026-09-14 - Enterprise Ethereum client written in Java under Apache 2.0 license, compatible with both public and permissioned networks
+* [Hyperledger Besu](https://github.com/hyperledger/besu) ⭐ 1,836 | 🐛 167 | 🌐 Java | 📅 2026-09-15 - Enterprise Ethereum client written in Java under Apache 2.0 license, compatible with both public and permissioned networks
 
 ### Private Transaction Manager
 
@@ -60,7 +60,7 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 * [Besu Plugins](https://github.com/ConsenSys/besu-plugins/) ⭐ 20 | 🐛 5 | 🌐 Java | 📅 2026-05-13 - Extends Hyperledger Besu functionality using Java based plugin API to retrieve data from any Besu network, public or permissioned and feed it into an application or system
 * [Besu Event Stream](https://github.com/ConsenSys/besu-plugins/tree/master/event-stream) ⭐ 20 | 🐛 5 | 🌐 Java | 📅 2026-05-13 - Besu plugin listening to events occurring on Ethereum network and broadcasting them to Kafka
 * [Quorum Remix IDE Plugin](https://github.com/ConsenSys/quorum-remix) ⚠️ Archived - The Quorum plugin for Ethereum's Remix IDE adds support for creating and interacting with private contracts on a Quorum network.
-* [Quorum Hashicorp Account Plugin](https://github.com/ConsenSys/quorum-account-plugin-hashicorp-vault) ⭐ 7 | 🐛 5 | 🌐 Go | 📅 2026-05-12 - Plugin enabling storage of Quorum account private keys in a Hashicorp Vault KV v2 secret engine.
+* [Quorum Hashicorp Account Plugin](https://github.com/ConsenSys/quorum-account-plugin-hashicorp-vault) ⚠️ Archived - Plugin enabling storage of Quorum account private keys in a Hashicorp Vault KV v2 secret engine.
 * [Quorum Plugin Definitions](https://github.com/ConsenSys/quorum-plugin-definitions) ⚠️ Archived - Extends Quorum functionality with gRPC based plugin API. Contains protobuf files defining plugin interfaces (e.g. Account plugin, Security plugin...)
 * [Quorum Security Plugin](https://github.com/ConsenSys/quorum-security-plugin-enterprise) ⚠️ Archived - Plugin enabling securing JSON-RPC server endpoints by adding TLS and support for OAuth2 based authentication
 
@@ -113,7 +113,7 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 
 ### Kubernetes
 
-* [Quorum Kubernetes](https://github.com/ConsenSys/quorum-kubernetes) ⭐ 135 | 🐛 8 | 🌐 Mustache | 📅 2025-11-02 - Example reference implementations of private networks using k8s, intended for developers and ops to get familiar with private ethereum network in k8s
+* [Quorum Kubernetes](https://github.com/ConsenSys/quorum-kubernetes) ⚠️ Archived - Example reference implementations of private networks using k8s, intended for developers and ops to get familiar with private ethereum network in k8s
 
 ### Cloud
 
@@ -145,7 +145,7 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 ## Contribute
 
 * [Contribute to GoQuorum](https://github.com/ConsenSys/quorum/blob/master/.github/CONTRIBUTING.md) ⚠️ Archived
-* [Contribute to Besu](https://github.com/hyperledger/besu/blob/master/CONTRIBUTING.md) ⭐ 1,835 | 🐛 168 | 🌐 Java | 📅 2026-09-14
+* [Contribute to Besu](https://github.com/hyperledger/besu/blob/master/CONTRIBUTING.md) ⭐ 1,836 | 🐛 167 | 🌐 Java | 📅 2026-09-15
 
 ## Community
 
@@ -234,4 +234,4 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
