@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "Consensys-Incorporated",
                 "repo": "quorum",
-                "stars": 4763,
+                "stars": 4764,
                 "topics": [
                   "blockchain",
                   "consensus",
@@ -52,7 +52,7 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-17T17:14:35Z",
-                "open_issues": 172,
+                "open_issues": 174,
                 "owner": "besu-eth",
                 "repo": "besu",
                 "stars": 1837,
@@ -789,7 +789,7 @@
                 "open_issues": 0,
                 "owner": "Consensys-Incorporated",
                 "repo": "quorum",
-                "stars": 4763,
+                "stars": 4764,
                 "topics": [
                   "blockchain",
                   "consensus",
@@ -855,7 +855,7 @@
             "open_issues": 0,
             "owner": "Consensys-Incorporated",
             "repo": "quorum",
-            "stars": 4763,
+            "stars": 4764,
             "topics": [
               "blockchain",
               "consensus",
@@ -886,7 +886,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-09-17T17:14:35Z",
-            "open_issues": 172,
+            "open_issues": 174,
             "owner": "besu-eth",
             "repo": "besu",
             "stars": 1837,
@@ -945,7 +945,7 @@
                 "open_issues": 0,
                 "owner": "Consensys-Incorporated",
                 "repo": "quorum",
-                "stars": 4763,
+                "stars": 4764,
                 "topics": [
                   "blockchain",
                   "consensus",
@@ -1112,7 +1112,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T14:55:16.670Z",
+    "last_updated": "2026-09-19T14:19:57.733Z",
     "original_repository_info": {
       "archived": true,
       "description": "A curated list of awesome softwares, libraries, tools, articles, educational resources, discussion channels and more to build on ConsenSys Quorum.",
