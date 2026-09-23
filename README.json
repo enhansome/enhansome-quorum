@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "Consensys-Incorporated",
                 "repo": "quorum",
-                "stars": 4764,
+                "stars": 4765,
                 "topics": [
                   "blockchain",
                   "consensus",
@@ -51,11 +51,11 @@
                 "id": 206414745,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-22T08:08:04Z",
-                "open_issues": 183,
+                "last_commit": "2026-09-23T14:56:42Z",
+                "open_issues": 182,
                 "owner": "besu-eth",
                 "repo": "besu",
-                "stars": 1838,
+                "stars": 1839,
                 "topics": [
                   "besu",
                   "blockchain",
@@ -635,7 +635,7 @@
                 "open_issues": 16,
                 "owner": "web3labs",
                 "repo": "chainlens-free",
-                "stars": 263,
+                "stars": 264,
                 "topics": [
                   "blockchain",
                   "dashbard",
@@ -789,7 +789,7 @@
                 "open_issues": 0,
                 "owner": "Consensys-Incorporated",
                 "repo": "quorum",
-                "stars": 4764,
+                "stars": 4765,
                 "topics": [
                   "blockchain",
                   "consensus",
@@ -855,7 +855,7 @@
             "open_issues": 0,
             "owner": "Consensys-Incorporated",
             "repo": "quorum",
-            "stars": 4764,
+            "stars": 4765,
             "topics": [
               "blockchain",
               "consensus",
@@ -885,11 +885,11 @@
             "id": 206414745,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-22T08:08:04Z",
-            "open_issues": 183,
+            "last_commit": "2026-09-23T14:56:42Z",
+            "open_issues": 182,
             "owner": "besu-eth",
             "repo": "besu",
-            "stars": 1838,
+            "stars": 1839,
             "topics": [
               "besu",
               "blockchain",
@@ -945,7 +945,7 @@
                 "open_issues": 0,
                 "owner": "Consensys-Incorporated",
                 "repo": "quorum",
-                "stars": 4764,
+                "stars": 4765,
                 "topics": [
                   "blockchain",
                   "consensus",
@@ -1112,7 +1112,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T15:29:11.284Z",
+    "last_updated": "2026-09-23T15:25:23.558Z",
     "original_repository_info": {
       "archived": true,
       "description": "A curated list of awesome softwares, libraries, tools, articles, educational resources, discussion channels and more to build on ConsenSys Quorum.",
