@@ -1,6 +1,6 @@
 # Awesome Quorum with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 509,795 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 510,286 | 🐛 107 | 📅 2026-09-02
 
 A curated list of awesome softwares, libraries, tools, articles, educational resources, discussion channels and more to build on [ConsenSys Quorum](https://consensys.net/quorum/)
 
@@ -44,7 +44,7 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 ### Enterprise Ethereum Client
 
 * [GoQuorum](https://github.com/ConsenSys/quorum) ⚠️ Archived - Enterprise Ethereum client, fork of Go-Ethereum (aka Geth), compatible with permissioned networks and widely used in production
-* [Hyperledger Besu](https://github.com/hyperledger/besu) ⭐ 1,839 | 🐛 182 | 🌐 Java | 📅 2026-09-24 - Enterprise Ethereum client written in Java under Apache 2.0 license, compatible with both public and permissioned networks
+* [Hyperledger Besu](https://github.com/hyperledger/besu) ⭐ 1,840 | 🐛 188 | 🌐 Java | 📅 2026-09-25 - Enterprise Ethereum client written in Java under Apache 2.0 license, compatible with both public and permissioned networks
 
 ### Private Transaction Manager
 
@@ -145,7 +145,7 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 ## Contribute
 
 * [Contribute to GoQuorum](https://github.com/ConsenSys/quorum/blob/master/.github/CONTRIBUTING.md) ⚠️ Archived
-* [Contribute to Besu](https://github.com/hyperledger/besu/blob/master/CONTRIBUTING.md) ⭐ 1,839 | 🐛 182 | 🌐 Java | 📅 2026-09-24
+* [Contribute to Besu](https://github.com/hyperledger/besu/blob/master/CONTRIBUTING.md) ⭐ 1,840 | 🐛 188 | 🌐 Java | 📅 2026-09-25
 
 ## Community
 
@@ -219,7 +219,7 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 * [7nodes](https://github.com/ConsenSys/quorum-examples/tree/master/examples/7nodes) ⚠️ Archived - Starts up a fully-functioning
   GoQuorum environment consisting of 7 independent nodes.
   Demonstrates consensus, privacy, and all the expected functionality of an Ethereum platform.
-* [Anonymous Zether](https://github.com/ConsenSys/anonymous-zether/) ⭐ 310 | 🐛 12 | 🌐 Solidity | 📅 2024-06-24 - A private payment system; an anonymous extension
+* [Anonymous Zether](https://github.com/ConsenSys/anonymous-zether/) ⚠️ Archived - A private payment system; an anonymous extension
   of Bünz, Agrawal, Zamani, and Boneh's [Zether protocol](https://crypto.stanford.edu/~buenz/papers/zether.pdf).
 * [Marketplace](https://github.com/lyotam/techmarketplace) ⭐ 15 | 🐛 9 | 🌐 JavaScript | 📅 2022-12-03 - An example application running on top of a GoQuorum network
   which allows users to bid for and offer virtual hackathon gear for sale in an interactive marketplace.
@@ -234,4 +234,4 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
