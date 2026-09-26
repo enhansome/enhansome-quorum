@@ -1,6 +1,6 @@
 # Awesome Quorum with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 510,286 | 🐛 107 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 510,781 | 🐛 107 | 📅 2026-09-02
 
 A curated list of awesome softwares, libraries, tools, articles, educational resources, discussion channels and more to build on [ConsenSys Quorum](https://consensys.net/quorum/)
 
@@ -44,7 +44,7 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 ### Enterprise Ethereum Client
 
 * [GoQuorum](https://github.com/ConsenSys/quorum) ⚠️ Archived - Enterprise Ethereum client, fork of Go-Ethereum (aka Geth), compatible with permissioned networks and widely used in production
-* [Hyperledger Besu](https://github.com/hyperledger/besu) ⭐ 1,840 | 🐛 188 | 🌐 Java | 📅 2026-09-25 - Enterprise Ethereum client written in Java under Apache 2.0 license, compatible with both public and permissioned networks
+* [Hyperledger Besu](https://github.com/hyperledger/besu) ⭐ 1,842 | 🐛 191 | 🌐 Java | 📅 2026-09-26 - Enterprise Ethereum client written in Java under Apache 2.0 license, compatible with both public and permissioned networks
 
 ### Private Transaction Manager
 
@@ -104,7 +104,7 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 ### Sandbox
 
 * [Epirus Free - Blockchain Explorer](https://github.com/web3labs/epirus-free) ⭐ 264 | 🐛 16 | 🌐 HTML | 📅 2024-04-23 - This dockerized environment is designed for viewing private Quorum, Pantheon and Ethereum networks.
-* [Quorum Maker](https://github.com/synechron-finlabs/quorum-maker) ⭐ 192 | 🐛 49 | 🌐 Shell | 📅 2022-07-05 - Synechron's Quorum Maker is a tool that allows users to create and manage Quorum network
+* [Quorum Maker](https://github.com/synechron-finlabs/quorum-maker) ⭐ 191 | 🐛 49 | 🌐 Shell | 📅 2022-07-05 - Synechron's Quorum Maker is a tool that allows users to create and manage Quorum network
 * [Quorum-Dev-Quickstart](https://github.com/ConsenSys/quorum-dev-quickstart) ⚠️ Archived - Deploy up a ConsenSys Quorum network on your local machine from the command line in only a few minutes
 * [Besu Truffle Box](https://www.trufflesuite.com/boxes/besu-box) - Truffle Box Creating API Endpoints for Hyperledger Besu network.
 * [Greenhouse by BlockTEST](https://greenhouse.blocktest.com/home) - an integrated toolbox for blockchain DevOps, an automated middleware development platform as a service, so that you can build blockchain applications in a streamlined way and on consistent sets of architectural plumbing principles
@@ -145,7 +145,7 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 ## Contribute
 
 * [Contribute to GoQuorum](https://github.com/ConsenSys/quorum/blob/master/.github/CONTRIBUTING.md) ⚠️ Archived
-* [Contribute to Besu](https://github.com/hyperledger/besu/blob/master/CONTRIBUTING.md) ⭐ 1,840 | 🐛 188 | 🌐 Java | 📅 2026-09-25
+* [Contribute to Besu](https://github.com/hyperledger/besu/blob/master/CONTRIBUTING.md) ⭐ 1,842 | 🐛 191 | 🌐 Java | 📅 2026-09-26
 
 ## Community
 
@@ -234,4 +234,4 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
