@@ -51,8 +51,8 @@
                 "id": 206414745,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T16:33:41Z",
-                "open_issues": 195,
+                "last_commit": "2026-10-02T21:12:32Z",
+                "open_issues": 200,
                 "owner": "besu-eth",
                 "repo": "besu",
                 "stars": 1845,
@@ -780,7 +780,7 @@
             {
               "node_type": "item",
               "title": "GoQuorum whitepaper",
-              "description": null,
+              "description": "Consensys-inc-archive/quorum",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -846,7 +846,7 @@
         {
           "node_type": "item",
           "title": "Contribute to GoQuorum",
-          "description": null,
+          "description": "Consensys-inc-archive/quorum",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -880,7 +880,7 @@
         {
           "node_type": "item",
           "title": "Contribute to Besu",
-          "description": null,
+          "description": "besu-eth/besu",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -889,8 +889,8 @@
             "id": 206414745,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T16:33:41Z",
-            "open_issues": 195,
+            "last_commit": "2026-10-02T21:12:32Z",
+            "open_issues": 200,
             "owner": "besu-eth",
             "repo": "besu",
             "stars": 1845,
@@ -913,7 +913,7 @@
         {
           "node_type": "item",
           "title": "Quorum Workshop - MLH",
-          "description": null,
+          "description": "dyelax/quorum-workshop",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1116,7 +1116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:35:54.386Z",
+    "last_updated": "2026-10-03T05:02:28.819Z",
     "original_repository_info": {
       "archived": true,
       "description": "A curated list of awesome softwares, libraries, tools, articles, educational resources, discussion channels and more to build on ConsenSys Quorum.",

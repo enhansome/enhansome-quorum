@@ -1,12 +1,12 @@
 # Awesome Quorum with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,606 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,799 | 🐛 106 | 📅 2026-09-02
 
 A curated list of awesome softwares, libraries, tools, articles, educational resources, discussion channels and more to build on [ConsenSys Quorum](https://consensys.net/quorum/)
 
 ConsenSys Quorum is a foundational open-source protocol layer that enables Enterprise Ethereum blockchain. It provides an extensive set of software components such as Enterprise Ethereum clients, private transactions managers, private key managers, plugins, libraries... to build decentralized platforms. ConsenSys Quorum is maintained by both engineering teams at [ConsenSys](https://consensys.net/) and the open-source community :heart:
 
-Contributions to this list are wery welcome :dolphin: You can add links through [pull requests](https://github.com/ConsenSys/awesome-quorum/pulls) ⚠️ Archived or create an [issue](https://github.com/ConsenSys/awesome-quorum/issues) ⚠️ Archived.
+Contributions to this list are wery welcome :dolphin: You can add links through [pull requests](https://github.com/ConsenSys/awesome-quorum/pulls) or create an [issue](https://github.com/ConsenSys/awesome-quorum/issues).
 
 ## Contents
 
@@ -44,7 +44,7 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 ### Enterprise Ethereum Client
 
 * [GoQuorum](https://github.com/ConsenSys/quorum) ⚠️ Archived - Enterprise Ethereum client, fork of Go-Ethereum (aka Geth), compatible with permissioned networks and widely used in production
-* [Hyperledger Besu](https://github.com/hyperledger/besu) ⭐ 1,845 | 🐛 195 | 🌐 Java | 📅 2026-10-02 - Enterprise Ethereum client written in Java under Apache 2.0 license, compatible with both public and permissioned networks
+* [Hyperledger Besu](https://github.com/hyperledger/besu) ⭐ 1,845 | 🐛 200 | 🌐 Java | 📅 2026-10-02 - Enterprise Ethereum client written in Java under Apache 2.0 license, compatible with both public and permissioned networks
 
 ### Private Transaction Manager
 
@@ -145,7 +145,7 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 ## Contribute
 
 * [Contribute to GoQuorum](https://github.com/ConsenSys/quorum/blob/master/.github/CONTRIBUTING.md) ⚠️ Archived
-* [Contribute to Besu](https://github.com/hyperledger/besu/blob/master/CONTRIBUTING.md) ⭐ 1,845 | 🐛 195 | 🌐 Java | 📅 2026-10-02
+* [Contribute to Besu](https://github.com/hyperledger/besu/blob/master/CONTRIBUTING.md) ⭐ 1,845 | 🐛 200 | 🌐 Java | 📅 2026-10-02
 
 ## Community
 
@@ -234,4 +234,4 @@ Contributions to this list are wery welcome :dolphin: You can add links through 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
