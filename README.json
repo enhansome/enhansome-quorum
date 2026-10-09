@@ -51,8 +51,8 @@
                 "id": 206414745,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-08T16:25:26Z",
-                "open_issues": 227,
+                "last_commit": "2026-10-09T15:30:54Z",
+                "open_issues": 233,
                 "owner": "besu-eth",
                 "repo": "besu",
                 "stars": 1848,
@@ -889,8 +889,8 @@
             "id": 206414745,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-08T16:25:26Z",
-            "open_issues": 227,
+            "last_commit": "2026-10-09T15:30:54Z",
+            "open_issues": 233,
             "owner": "besu-eth",
             "repo": "besu",
             "stars": 1848,
@@ -1008,7 +1008,7 @@
                 "open_issues": 12,
                 "owner": "Consensys-inc-archive",
                 "repo": "anonymous-zether",
-                "stars": 310,
+                "stars": 309,
                 "topics": [
                   "protocols-team-goquorum"
                 ]
@@ -1116,7 +1116,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T17:50:12.046Z",
+    "last_updated": "2026-10-09T17:24:52.823Z",
     "original_repository_info": {
       "archived": true,
       "description": "A curated list of awesome softwares, libraries, tools, articles, educational resources, discussion channels and more to build on ConsenSys Quorum.",
